@@ -1,4 +1,4 @@
-## Welcome to Deenkode
+## Welcome to Deenkode 🌙
 
 An Islamic dev community. Coding for Allah's sake!
 
