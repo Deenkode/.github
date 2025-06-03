@@ -1,5 +1,7 @@
 ## Welcome to Deenkode 🌙
 
+![Deenkode-logo-dark](https://github.com/user-attachments/assets/136241e7-fff4-4092-94b7-4f9f40f752db)
+
 An Islamic dev community. Coding for Allah's sake!
 
 > [!important]
