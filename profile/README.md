@@ -1,8 +1,11 @@
 ## Welcome to Deenkode 🌙
-
-![Deenkode-logo-dark](https://github.com/user-attachments/assets/136241e7-fff4-4092-94b7-4f9f40f752db)
-
 An Islamic dev community. Coding for Allah's sake!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deenkode/designs/refs/heads/main/logo/svg/Deenkode-logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deenkode/designs/refs/heads/main/logo/svg/Deenkode-logo-light.svg">
+  <img alt="" src="https://raw.githubusercontent.com/Deenkode/designs/refs/heads/main/logo/svg/Deenkode-logo-light.svg">
+</picture>
 
 > [!important]
 > Let's make a habit of 1 commit every day for Allah's sake!
